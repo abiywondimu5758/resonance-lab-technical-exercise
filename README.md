@@ -4,6 +4,12 @@
 
 Assessment, design documentation and a locally runnable prototype for the [RESONANCE AI4D Lab at Addis Ababa University](https://sites.google.com/aait.edu.et/resonance-lab). The improved homepage is the main deliverable. Eight supporting pages provide local destinations for its navigation.
 
+## Live prototype
+
+[Open the deployed prototype](https://resonance-lab-exercise-abiy.netlify.app/)
+
+Hosted on Netlify as an exercise demonstration; this is not the lab's official website.
+
 ## Deliverables and reading guide
 
 | Exercise requirement | Deliverable |
@@ -44,7 +50,7 @@ npm run build
 npm run preview
 ```
 
-Stop the development server before starting preview: both use port 5173. Build output is written to `dist/`. Deployment is not required and has not been configured. The included server is local review tooling, not production hosting infrastructure.
+Stop the development server before starting preview: both use port 5173. Build output is written to `dist/`. Deployment is optional; a live Netlify demonstration is linked above. The included server is local review tooling, not production hosting infrastructure.
 
 To reproduce the checks:
 
