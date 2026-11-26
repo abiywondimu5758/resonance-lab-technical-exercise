@@ -1,0 +1,1198 @@
+{
+  "retrieved": "2026-11-25",
+  "method": "Public HTML fetched by curl; parsed main markup and data-code embed attributes with Python HTMLParser. Browser observations are recorded separately.",
+  "pages": {
+    "home": {
+      "source_bytes": 151945,
+      "source_sha256": "bb5114f985948e99c8a281984fb93f726e39554d022aa07110c07acb19bc76ea",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "RESONANCE AI4D Lab"
+        }
+      ],
+      "iframes": [
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        }
+      ],
+      "embeds": [
+        {
+          "headings": [
+            {
+              "level": "h3",
+              "text": "Our Vision"
+            },
+            {
+              "level": "h4",
+              "text": "Innovation Hub"
+            },
+            {
+              "level": "h4",
+              "text": "Sustainable Solutions"
+            },
+            {
+              "level": "h4",
+              "text": "Collaborative Ecosystem"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "212b10adfbcd4e1131ada7dd0e23edfd3ba25678d2dc10844766a96350d0c8cf"
+        },
+        {
+          "headings": [
+            {
+              "level": "h3",
+              "text": "Key Focus Areas"
+            },
+            {
+              "level": "h5",
+              "text": "Innovative Health Solutions"
+            },
+            {
+              "level": "h5",
+              "text": "Resilient Agriculture & Food Systems"
+            },
+            {
+              "level": "h5",
+              "text": "Inclusive Governance & Justice"
+            },
+            {
+              "level": "h5",
+              "text": "Sustainable Energy & Climate Resilience"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "9436d3176f3256da292da3437cc4dd847755bf758c75fcaefc7c9fb146ef8a1b"
+        },
+        {
+          "headings": [
+            {
+              "level": "h3",
+              "text": "Ready to Join Our Team?"
+            },
+            {
+              "level": "h3",
+              "text": "Visit our \"Call for Applications Page\"."
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "9e8bb391f14e8af0d30b5ed4ae65e48ee0f9234a1a9eb454ebcdf35ace0775a9"
+        }
+      ],
+      "image_accessible_names": [
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        },
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        },
+        {
+          "alt": null,
+          "aria-label": null
+        },
+        {
+          "alt": null,
+          "aria-label": null
+        },
+        {
+          "alt": null,
+          "aria-label": null
+        }
+      ]
+    },
+    "about": {
+      "source_bytes": 159471,
+      "source_sha256": "cb8f9491b94066b13fb13253ccc681bbd5f5233cc9026626a3fbbd6be3ea45ea",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "About\u00a0"
+        }
+      ],
+      "iframes": [
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        }
+      ],
+      "embeds": [
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Our Mission"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "0a497fe52161601e630af91e5f80bf34ed17d28e1e901f3230769e1e5e6eb8a5"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Background and Context"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "78ea3071a0d1ef76599619cd0c083474db2b2fb84b8a0f0dd52870128cdab4f5"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Our Objectives"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "ac441bc3a933a1e92ba8b97d3642f48837ac0a94b26a02820f620219388ffb94"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Alignment with Sustainable Development Goals (SDGs)"
+            },
+            {
+              "level": "h5",
+              "text": "Zero Hunger (SDG 2)"
+            },
+            {
+              "level": "h5",
+              "text": "Good Health & Well-being (SDG 3)"
+            },
+            {
+              "level": "h5",
+              "text": "Affordable & Clean Energy (SDG 7)"
+            },
+            {
+              "level": "h5",
+              "text": "Peace, Justice & Strong Institutions (SDG 16)"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "46a01bfe2b8f35a77879fa2d8c5298c8dce6f92b59336284e444b9dfbd2290e4"
+        },
+        {
+          "headings": [
+            {
+              "level": "h3",
+              "text": "Stay Updated with Our Progress!"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "ee02fc3a6a349a0f5ca6bd706816bf381f5e1bbf2dd527302ef53ffaa98241ef"
+        }
+      ],
+      "image_accessible_names": [
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        },
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        }
+      ]
+    },
+    "research": {
+      "source_bytes": 150191,
+      "source_sha256": "fd2f1b2dbf7bb3c315ef35f8ce7d5e838c319a7345ff06ed1c78ebfdce93c870",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Research"
+        }
+      ],
+      "iframes": [
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        }
+      ],
+      "embeds": [
+        {
+          "headings": [
+            {
+              "level": "h1",
+              "text": "Our Research"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "e463a565a9d2905ae5a3bbffb750e44e0a120e89148ab5d77d22a7fb57008eac"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Thematic Research Areas"
+            },
+            {
+              "level": "h3",
+              "text": "Innovative Health Solutions"
+            },
+            {
+              "level": "h3",
+              "text": "Resilient Agriculture and Food Systems"
+            },
+            {
+              "level": "h3",
+              "text": "Inclusive Governance and Justice"
+            },
+            {
+              "level": "h3",
+              "text": "Sustainable Energy and Climate Resilience"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "7c98ac729561ae8ecf211132da868fcccf4d583ab043066fe04f1aa09592d1c7"
+        },
+        {
+          "headings": [
+            {
+              "level": "h3",
+              "text": "Stay Updated with Our Progress!"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "ee02fc3a6a349a0f5ca6bd706816bf381f5e1bbf2dd527302ef53ffaa98241ef"
+        }
+      ],
+      "image_accessible_names": [
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        },
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        }
+      ]
+    },
+    "team": {
+      "source_bytes": 175603,
+      "source_sha256": "7f54a63ecd03068932021f65bc8d0c036ba9d368ba9393c3bcf1944d766ebc59",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Team"
+        }
+      ],
+      "iframes": [
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        }
+      ],
+      "embeds": [
+        {
+          "headings": [
+            {
+              "level": "h1",
+              "text": "Our Team"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "a0ffab57d22d78556f08055a55a3b22bab83de97beaa7d5a5ae4782e5daeb3d1"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Lab Leadership"
+            },
+            {
+              "level": "h3",
+              "text": "Dr. Fitsum Assamnew"
+            },
+            {
+              "level": "h3",
+              "text": "Ethical Review Board"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "3c87746a8911dce724941493357c27d7309bf57737b348f4ed17d55706501b2e"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Thematic Leads"
+            },
+            {
+              "level": "h3",
+              "text": "Dr. Bisrat Derebssa"
+            },
+            {
+              "level": "h3",
+              "text": "Dr. Beakal Gizachew"
+            },
+            {
+              "level": "h3",
+              "text": "Dr. Henock Mulugeta"
+            },
+            {
+              "level": "h3",
+              "text": "Dr. Elefelious Getachew"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "d18bcd47133a09a202710d0d68da0578e14eb8f0959429b235f4fa3bc1f5e9d9"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Core Researchers"
+            },
+            {
+              "level": "h3",
+              "text": "Dr. Menore Tekeba"
+            },
+            {
+              "level": "h3",
+              "text": "Dr. Libsework Negash"
+            },
+            {
+              "level": "h3",
+              "text": "Prof. Alemayehu Lemma"
+            },
+            {
+              "level": "h3",
+              "text": "Dr. Biniam Tadesse"
+            },
+            {
+              "level": "h3",
+              "text": "Lea Mehari"
+            },
+            {
+              "level": "h3",
+              "text": "Dr. Dawit Habtu"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "07dbdf326a8a594f69934c3070071f655b2135639971fdc9e9e16c866f321773"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Lab Management & Support Staff"
+            },
+            {
+              "level": "h3",
+              "text": "To be recruited"
+            },
+            {
+              "level": "h3",
+              "text": "To be recruited"
+            },
+            {
+              "level": "h3",
+              "text": "To be recruited"
+            },
+            {
+              "level": "h3",
+              "text": "To be recruited"
+            },
+            {
+              "level": "h3",
+              "text": "To be recruited"
+            },
+            {
+              "level": "h3",
+              "text": "To be recruited"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "8e5314822b3810ab74130f62ef0daa23439f50f160577cc17aafde2f36c19457"
+        },
+        {
+          "headings": [
+            {
+              "level": "h3",
+              "text": "Stay Updated with Our Progress!"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "ee02fc3a6a349a0f5ca6bd706816bf381f5e1bbf2dd527302ef53ffaa98241ef"
+        }
+      ],
+      "image_accessible_names": [
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        },
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        }
+      ]
+    },
+    "news": {
+      "source_bytes": 149645,
+      "source_sha256": "0a7c42dac9cf7b2563322e9922e503dd8de2ee731e8b3fb45d388decc72f78c7",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "News & Events"
+        }
+      ],
+      "iframes": [
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        }
+      ],
+      "embeds": [
+        {
+          "headings": [
+            {
+              "level": "h1",
+              "text": "News & Events"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "ce14c9f6b1a6ba215a8fd79f8165245e710eeabed01b9638a0772864b20de615"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Upcoming Events"
+            },
+            {
+              "level": "h3",
+              "text": "Application Deadline for MSc Research Position  Apply Now"
+            },
+            {
+              "level": "h3",
+              "text": "Application Deadline for PhD Research Position Apply Now"
+            },
+            {
+              "level": "h3",
+              "text": "Shortlisting & Assessment"
+            },
+            {
+              "level": "h3",
+              "text": "Interviews for MSc and PhD Candidates"
+            },
+            {
+              "level": "h3",
+              "text": "Final Selection & Offers"
+            },
+            {
+              "level": "h3",
+              "text": "Program Commencement"
+            },
+            {
+              "level": "h3",
+              "text": "Biannual Lab-Wide Workshop"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "045d2643a4cfc2318791f8c055ec2e372710d8e130a3a604ed187aae75d8d27e"
+        },
+        {
+          "headings": [
+            {
+              "level": "h3",
+              "text": "Stay Updated with Our Progress!"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "ee02fc3a6a349a0f5ca6bd706816bf381f5e1bbf2dd527302ef53ffaa98241ef"
+        }
+      ],
+      "image_accessible_names": [
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        },
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        }
+      ]
+    },
+    "publications": {
+      "source_bytes": 150736,
+      "source_sha256": "b86f30d2a71e5d58d1517632c28a926ad0786f4649176add8ffd3e3f9fea9e1b",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Publications"
+        }
+      ],
+      "iframes": [
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        }
+      ],
+      "embeds": [
+        {
+          "headings": [
+            {
+              "level": "h1",
+              "text": "Our Publications"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "4b89f9ea53ca1d0e1ac108ead2e1365565155aa11dceb3048814f78168ae375a"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Featured Publications"
+            },
+            {
+              "level": "h3",
+              "text": "Title goes here"
+            },
+            {
+              "level": "h3",
+              "text": "Title goes here"
+            },
+            {
+              "level": "h3",
+              "text": "Title goes here"
+            },
+            {
+              "level": "h3",
+              "text": "Title goes here"
+            },
+            {
+              "level": "h3",
+              "text": "Title goes here"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "d826970d520990dc5e79bb6e9b893204208ca85d3cd6f142ad68101edcc3b1fd"
+        },
+        {
+          "headings": [
+            {
+              "level": "h3",
+              "text": "Interested in Our Research?"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "47f8ac8d0a310cda2c190984aa2d984e3534e6f8c916876a8f13bf0f453d1f1d"
+        }
+      ],
+      "image_accessible_names": [
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        },
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        }
+      ]
+    },
+    "involved": {
+      "source_bytes": 158465,
+      "source_sha256": "7c783cd19b4d2a2625978a332e69adf9034fb8540f9ec08d1e5a79920c3e264d",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Get Involved"
+        }
+      ],
+      "iframes": [
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        }
+      ],
+      "embeds": [
+        {
+          "headings": [
+            {
+              "level": "h1",
+              "text": "Get Involved with RESONANCE AI4D Lab"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "efa0e2a3e6a220f1f43545916635f128280fa0311480245844c93b8749588716"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Opportunities for Students"
+            },
+            {
+              "level": "h3",
+              "text": "Masters and PhD Research Positions:"
+            },
+            {
+              "level": "h3",
+              "text": "Research Participation for Currently Enrolled Students:"
+            },
+            {
+              "level": "h4",
+              "text": "Benefits of Participation for Students:"
+            },
+            {
+              "level": "h5",
+              "text": "Access to Lab Infrastructure"
+            },
+            {
+              "level": "h5",
+              "text": "Supervision & Mentorship"
+            },
+            {
+              "level": "h5",
+              "text": "Monthly Research Stipend"
+            },
+            {
+              "level": "h5",
+              "text": "Funding for Research Activities"
+            },
+            {
+              "level": "h5",
+              "text": "Publication & Conference Opportunities"
+            },
+            {
+              "level": "h5",
+              "text": "Priority Access to Events"
+            },
+            {
+              "level": "h5",
+              "text": "Official Recognition"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "d23ed01731bc79fdb4955e5ee51e3de6ec65105645d926664ef5d6557e22e813"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Collaborate & Partner with Us"
+            },
+            {
+              "level": "h3",
+              "text": "Areas of Collaboration:"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "fe90bc875563ea093697f67a080ea0305aa7a57c1293aeda8aab6a0cc7115568"
+        },
+        {
+          "headings": [
+            {
+              "level": "h3",
+              "text": "Ready to Make an Impact?"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "4b9fad92a8e758db7a04143a19eeb3bdec594c4905ed9c0930a12e096f11b178"
+        }
+      ],
+      "image_accessible_names": [
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        },
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        }
+      ]
+    },
+    "contact": {
+      "source_bytes": 148159,
+      "source_sha256": "91879361e86f8fb71525d9fa39909680cb6e045e39f312a908f86510423edb2a",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Contact"
+        }
+      ],
+      "iframes": [
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        }
+      ],
+      "embeds": [
+        {
+          "headings": [
+            {
+              "level": "h1",
+              "text": "Contact Us"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "4e6437638556a5061060563eb8bde35dcd12b58d961762b570178cbccfabab7c"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Our Contact Details"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "08c574e38b0d2b2aef798705fa2bf9d67cb7e3a6beadb3029937c353f9239ebc"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Find Us on the Map"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "4389e6e2ac67573a915545af5ea54422e9fae687e5677c70ebfacfc68b3b771d"
+        }
+      ],
+      "image_accessible_names": [
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        },
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        }
+      ]
+    },
+    "applications": {
+      "source_bytes": 168747,
+      "source_sha256": "ceebbd86627e86597e5be17213554a5c7a1d4779015d92b98cff12bf7c45543c",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Call for Applications"
+        }
+      ],
+      "iframes": [
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        },
+        {
+          "title": "Custom embed",
+          "aria-label": "Custom embed",
+          "scrolling": "no",
+          "height": null
+        }
+      ],
+      "embeds": [
+        {
+          "headings": [
+            {
+              "level": "h1",
+              "text": "Call for Applications 2025/26"
+            },
+            {
+              "level": "h2",
+              "text": "Funded Masters and PhD Research Position at Resonance AI4D Lab, AAU"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "25f456f708bd84b0a0d36bcfe2b545e1ae193811dc762e456370def9d30a2784"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Why Join Resonance AI4D Lab?"
+            },
+            {
+              "level": "h3",
+              "text": "Impact-Driven Research"
+            },
+            {
+              "level": "h3",
+              "text": "Interdisciplinary Focus"
+            },
+            {
+              "level": "h3",
+              "text": "Nurturing Talent"
+            },
+            {
+              "level": "h3",
+              "text": "Financial Support"
+            },
+            {
+              "level": "h3",
+              "text": "Growth Opportunities"
+            },
+            {
+              "level": "h3",
+              "text": "Commitment to Diversity"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "dad73599d94f39f0bd73bbd80d92d4d2405400b1f58aec9443d6aa60b0a5f192"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Who Are We Looking For?"
+            },
+            {
+              "level": "h3",
+              "text": "General Principles"
+            },
+            {
+              "level": "h3",
+              "text": "Masters Research Position Criteria"
+            },
+            {
+              "level": "h3",
+              "text": "PhD Research Position Criteria"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "608ce93e49e74b5e1ecd7de2eef79721456ebaa60080c1b738281a453654d0c3"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Choose Your Impact: Explore Our Research Projects"
+            },
+            {
+              "level": "h4",
+              "text": "AI-supported strategic planning: Electricity distribution system monitoring and upgrade in Addis Ababa"
+            },
+            {
+              "level": "h4",
+              "text": "AI-Driven Solutions for Off-Grid Energy Systems"
+            },
+            {
+              "level": "h4",
+              "text": "AI for Sustainable Urban Mobility and EV-Grid Integration"
+            },
+            {
+              "level": "h4",
+              "text": "AI-powered Child Symptom Identifier"
+            },
+            {
+              "level": "h4",
+              "text": "AI-powered Outbreak Early Detection"
+            },
+            {
+              "level": "h4",
+              "text": "Integrated Smart Dairy System"
+            },
+            {
+              "level": "h4",
+              "text": "AI-Driven Precision Farming Tools for Smallholder Farmers"
+            },
+            {
+              "level": "h4",
+              "text": "Supreme Court/High Court Caseload Management"
+            },
+            {
+              "level": "h4",
+              "text": "AI-Based (Voice-Enabled Chatbot) Legal Aid Services"
+            },
+            {
+              "level": "h4",
+              "text": "Language Accommodation in High Courts"
+            },
+            {
+              "level": "h4",
+              "text": "Equitable Provision of Government Services"
+            },
+            {
+              "level": "h4",
+              "text": "Optimization of Government Resource Utilization"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "0c04db51d53f57bc0ab6971bfb2b1d2cc75b0b98f1f453b27ca0c93c1370fed5"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Application Timeline"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "810d84b68d9ed133237852165b3c7733f2ec0b23cea294e29bb25bc37a8ac502"
+        },
+        {
+          "headings": [
+            {
+              "level": "h2",
+              "text": "Ready to Make a Difference?"
+            }
+          ],
+          "scripts": [
+            "https://cdn.tailwindcss.com"
+          ],
+          "source_sha256": "467f8de7cde1411ca16fc8cc519ddae630ed983c6dedd4ae384c237a9956ba28"
+        }
+      ],
+      "image_accessible_names": [
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        },
+        {
+          "alt": null,
+          "aria-label": "Site home"
+        }
+      ]
+    }
+  }
+}
