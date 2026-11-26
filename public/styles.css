@@ -1,8 +1,64 @@
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
+:root {
+  --forest: #174b3b;
+  --ink: #202020;
+  --muted: #59665e;
+  --line: #d9e4da;
   font-family: Arial, Helvetica, sans-serif;
+  color: var(--ink);
+  background: #fff;
+}
+* { box-sizing: border-box; }
+body { margin: 0; border-top: 5px solid var(--forest); }
+a { color: var(--forest); text-underline-offset: .24em; }
+button { font: inherit; }
+:focus { outline: none; }
+a:focus-visible, button:focus-visible { outline: 2px solid var(--forest); outline-offset: 3px; }
+.container { width: min(1240px, calc(100% - 80px)); margin-inline: auto; }
+.skip-link { position: absolute; top: 12px; left: 12px; padding: 14px 20px; background: #fff; transform: translateY(-180%); }
+.skip-link:focus { transform: none; }
+.header-inner { min-height: 105px; display: flex; align-items: center; justify-content: space-between; gap: 28px; border-bottom: 1px solid var(--line); }
+.identity { display: flex; align-items: center; gap: 19px; color: var(--ink); text-decoration: none; flex-shrink: 0; }
+.identity img { width: 52px; height: 54px; object-fit: contain; }
+.lab-name { display: block; font-size: 22px; font-weight: 700; letter-spacing: -.03em; }
+.affiliation { display: block; margin-top: 7px; font-size: 13px; color: var(--muted); }
+.primary-navigation { display: flex; align-items: center; gap: 24px; }
+.primary-navigation a { padding-block: 14px; color: var(--ink); font-size: 14px; text-decoration: none; white-space: nowrap; }
+.primary-navigation a:hover, .primary-navigation a[aria-current="page"] { color: var(--forest); text-decoration: underline; }
+.menu-toggle[hidden] { display: none; }
+.menu-toggle { min-width: 44px; min-height: 44px; align-items: center; justify-content: center; border: 1px solid #9caaa0; background: #fff; padding: 10px; cursor: pointer; }
+.menu-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+.menu-lines, .menu-lines::before, .menu-lines::after { display: block; height: 1px; width: 24px; background: var(--muted); }
+.menu-lines { position: relative; }
+.menu-lines::before, .menu-lines::after { position: absolute; content: ''; left: 0; }
+.menu-lines::before { top: -7px; }
+.menu-lines::after { top: 7px; }
+[data-menu-open="true"] .menu-lines { background: transparent; }
+[data-menu-open="true"] .menu-lines::before { top: 0; transform: rotate(45deg); }
+[data-menu-open="true"] .menu-lines::after { top: 0; transform: rotate(-45deg); }
+.page-shell { min-height: 45vh; padding-block: 64px; }
+h1 { font-size: clamp(32px, 4vw, 56px); line-height: 1.1; letter-spacing: -.035em; }
+.site-footer { border-top: 1px solid var(--line); display: grid; grid-template-columns: 1fr 1fr; gap: 80px; padding-block: 28px 40px; }
+.site-footer h2 { margin: 0 0 20px; font-size: 27px; }
+.email { display: inline-block; min-height: 44px; font-size: 19px; text-decoration: none; }
+.email:hover { text-decoration: underline; }
+address { font-style: normal; font-size: 15px; line-height: 1.6; }
+@media (max-width: 1200px) {
+  .header-inner { flex-wrap: wrap; gap: 0 20px; padding-block: 22px; }
+  .menu-toggle:not([hidden]) { display: inline-flex; }
+  .primary-navigation { flex-basis: 100%; flex-direction: column; align-items: stretch; padding-top: 24px; gap: 0; }
+  .primary-navigation a { padding: 20px 0; border-bottom: 1px solid var(--line); font-size: 16px; }
+  .navigation-ready[data-menu-open="false"] .primary-navigation { display: none; }
+}
+@media (max-width: 600px) {
+  .container { width: calc(100% - 48px); }
+  .header-inner { display: grid; grid-template-columns: minmax(0, 1fr) 44px; column-gap: 14px; padding-block: 19px; }
+  .identity { min-width: 0; gap: 12px; }
+  .identity > span { min-width: 0; }
+  .identity img { width: 43px; height: 45px; flex-shrink: 0; }
+  .lab-name { font-size: 16px; }
+  .affiliation { font-size: 11px; }
+  .menu-toggle { align-self: start; }
+  .primary-navigation { grid-column: 1 / -1; }
+  .site-footer { grid-template-columns: 1fr; gap: 26px; }
+  .email { font-size: 18px; }
 }
