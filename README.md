@@ -28,6 +28,10 @@ Stop the development server before starting preview; both use port 5173. Build o
 - `RESONANCE_Website_Assessment.pdf`: assessment and priorities.
 - `design/`: wireframes and visual designs.
 
+## Current implementation
+
+The shared header, university identity, responsive navigation, mobile menu and contact footer are implemented. Supporting routes currently contain page shells; page-specific content follows separately.
+
 ## AI and development-tool disclosure
 
 I used Codex for research, design, coding, documentation, and testing, plus Claude for feedback.
