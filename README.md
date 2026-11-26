@@ -30,7 +30,7 @@ Stop the development server before starting preview; both use port 5173. Build o
 
 ## Current implementation
 
-The shared header, university identity, responsive navigation, mobile menu and contact footer are implemented. Supporting routes currently contain page shells; page-specific content follows separately.
+The shared header, university identity, responsive navigation, mobile menu and contact footer are implemented. The homepage now includes the hero, research themes, participation routes, previous-cycle notice and partner marks. Supporting routes contain page shells; detailed content follows separately.
 
 ## AI and development-tool disclosure
 
